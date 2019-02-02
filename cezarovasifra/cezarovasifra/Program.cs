@@ -20,6 +20,7 @@ namespace cezarovasifra
 
             }
             Console.WriteLine("Zasifrovana sprava: {0}", sprava);
+            Console.WriteLine("kubekjefrajer");
             Console.ReadKey();
 
         }
