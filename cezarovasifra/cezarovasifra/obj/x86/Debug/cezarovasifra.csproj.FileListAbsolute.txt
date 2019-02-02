@@ -1,0 +1,6 @@
+/Users/juhascikjonatan/Projects/cezarovasifra/cezarovasifra/bin/Debug/cezarovasifra.exe
+/Users/juhascikjonatan/Projects/cezarovasifra/cezarovasifra/bin/Debug/cezarovasifra.pdb
+/Users/juhascikjonatan/Projects/cezarovasifra/cezarovasifra/obj/x86/Debug/cezarovasifra.csprojAssemblyReference.cache
+/Users/juhascikjonatan/Projects/cezarovasifra/cezarovasifra/obj/x86/Debug/cezarovasifra.csproj.CoreCompileInputs.cache
+/Users/juhascikjonatan/Projects/cezarovasifra/cezarovasifra/obj/x86/Debug/cezarovasifra.exe
+/Users/juhascikjonatan/Projects/cezarovasifra/cezarovasifra/obj/x86/Debug/cezarovasifra.pdb
